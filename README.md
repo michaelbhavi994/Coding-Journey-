@@ -1,21 +1,29 @@
-# First C Program 👩🏻‍💻
+# C Practice Programs 👩🏻‍💻
 
-## 📌 Description
-This is my first C program.  
-The program takes the user's name as input and prints a greeting message.
+This repository contains my C programming practice problems.
 
-## 🛠️ Concepts Used
-- Basic Input & Output
+---
+
+## 1️⃣ Hello User Program
+### 📌 Description
+Takes user's name as input and prints a greeting message.
+
+### 🛠️ Concepts Used
 - printf()
-- fgets() / scanf()
+- scanf() / fgets()
 - Character arrays
 
-## 🚀 How to Run
-1. Compile the program:
-   gcc hello.c
+---
 
-2. Run the program:
-   ./a.out
+## 2️⃣ Mario Double Pyramid Program
+### 📌 Description
+Prints a double pyramid pattern using '#' symbols.
+User enters height between 1 and 8.
 
-## 🎯 Purpose
-This program is part of my C programming practice journey.
+### 🛠️ Concepts Used
+- Nested loops
+- do-while loop
+- Conditional statements
+- Pattern printing logic
+
+---
