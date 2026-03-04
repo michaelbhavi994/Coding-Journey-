@@ -1,29 +1,26 @@
 # C Practice Programs 👩🏻‍💻
 
-This repository contains my C programming practice problems.
+This repository contains my daily C programming practice as part of my coding journey.
 
 ---
 
-## 1️⃣ Hello User Program
-### 📌 Description
-Takes user's name as input and prints a greeting message.
+## 📅 Day 01
+- Hello World Program  
+  Basic program to print output using printf().
 
-### 🛠️ Concepts Used
-- printf()
-- scanf() / fgets()
-- Character arrays
+- Pyramid Pattern  
+  Implemented star pattern using nested loops.
 
----
+## 📅 Day 02
+- Swap Two Numbers (3 Methods)  
+  Implemented swapping using:
+  1. Temporary variable
+  2. Arithmetic operations
+  3. Pointers (menu-driven program)
 
-## 2️⃣ Mario Double Pyramid Program
-### 📌 Description
-Prints a double pyramid pattern using '#' symbols.
-User enters height between 1 and 8.
-
-### 🛠️ Concepts Used
-- Nested loops
-- do-while loop
-- Conditional statements
-- Pattern printing logic
+- Even-Odd Checker  
+  Program to determine whether a number is even or odd using modulus operator and function.
 
 ---
+
+More programs coming daily...
