@@ -23,4 +23,9 @@ This repository contains my daily C programming practice as part of my coding jo
 
 ---
 
+## 📅 Day 03
+- Largest Among Three Numbers  
+  Program that takes three integers as input and determines the largest number using if-else conditional statements.
+
+
 More programs coming daily...
