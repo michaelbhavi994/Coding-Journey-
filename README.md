@@ -32,6 +32,15 @@ This repository contains my daily C programming practice as part of my coding jo
 * Simple Calculator (Mini Project)
   Menu-driven calculator performing addition, subtraction, multiplication, and division using switch case.
 
+## 📅 Day 04
+
+* Positive / Negative / Zero Checker
+  Program that checks whether a number is positive, negative, or zero using if-else conditions.
+
+* Sum of First N Natural Numbers
+  Program that calculates the sum of the first N natural numbers using a loop and includes input validation to handle negative numbers.
+
+
 ---
 
 More programs coming daily...
