@@ -40,6 +40,15 @@ This repository contains my daily C programming practice as part of my coding jo
 * Sum of First N Natural Numbers
   Program that calculates the sum of the first N natural numbers using a loop and includes input validation to handle negative numbers.
 
+## 📅 Day 05
+
+* Multiplication Table Generator
+  Program that prints the multiplication table of a number using a for loop.
+
+* Factorial of a Number
+  Program that calculates the factorial of a number using a loop with validation for negative input.
+
+
 
 ---
 
