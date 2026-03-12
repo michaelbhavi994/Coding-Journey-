@@ -48,6 +48,13 @@ This repository contains my daily C programming practice as part of my coding jo
 * Factorial of a Number
   Program that calculates the factorial of a number using a loop with validation for negative input.
 
+## 📅 Day 06
+
+* Prime Number Checker
+  Program to check whether a number is prime using loops and conditional statements.
+
+* Reverse a Number
+  Program that reverses the digits of a number using a while loop and modulus operator.
 
 
 ---
