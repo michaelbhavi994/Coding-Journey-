@@ -56,6 +56,15 @@ This repository contains my daily C programming practice as part of my coding jo
 * Reverse a Number
   Program that reverses the digits of a number using a while loop and modulus operator.
 
+## 📅 Day 07
+
+* Largest Element in an Array
+  Program that finds the largest number from a list of elements using arrays and loops.
+
+* Average of Array Elements
+  Program that calculates the average of numbers stored in an array.
+
+
 
 ---
 
