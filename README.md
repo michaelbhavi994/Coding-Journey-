@@ -64,6 +64,14 @@ This repository contains my daily C programming practice as part of my coding jo
 * Average of Array Elements
   Program that calculates the average of numbers stored in an array.
 
+## 📅 Day 08
+
+* Search Element in Array
+  Program that checks whether a specific element exists in an array.
+
+* Reverse an Array
+  Program that prints the elements of an array in reverse order.
+
 
 
 ---
