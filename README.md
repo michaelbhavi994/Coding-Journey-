@@ -72,6 +72,14 @@ This repository contains my daily C programming practice as part of my coding jo
 * Reverse an Array
   Program that prints the elements of an array in reverse order.
 
+## 📅 Day 09
+
+* String Length
+  Program that calculates the length of a string without using built-in functions.
+
+* Reverse a String
+  Program that prints a string in reverse order using loops.
+
 
 
 ---
