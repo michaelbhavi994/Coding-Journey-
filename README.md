@@ -80,8 +80,12 @@ This repository contains my daily C programming practice as part of my coding jo
 * Reverse a String
   Program that prints a string in reverse order using loops.
 
+## 📅 Day 10
+
+* Palindrome String Checker
+  Program to check whether a given string is a palindrome by comparing characters from the beginning and end of the string.
+  
+* Count Vowels, Consonants, Digits, Spaces
+  Program that takes a string input and counts the number of vowels, consonants, digits, and spaces using conditional statements and loops.
 
 
----
-
-More programs coming daily...
